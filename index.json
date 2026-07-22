@@ -8,6 +8,26 @@
     {
       "name": "Pokemon - White Version 2",
       "file": "jingles/Pokémon White 2.mp3"
-    }
+    },
+    {
+      "name": "Pokemon Sun",
+      "file": "jingles/Pokémon Sun.mp3"
+    },
+    {
+      "name": "Pokemon Moon",
+      "file": "jingles/Pokémon Moon.mp3"
+    },
+    {
+      "name": "Pokemon Pearl",
+      "file": "jingles/Pokémon Pearl.mp3"
+    },
+    {
+      "name": "Pokemon Diamond",
+      "file": "jingles/Pokémon Diamond.mp3"
+    },
+    {
+      "name": "Pokemon Mysery Dungeon - Explorers of Sky",
+      "file": "jingles/Pokémon Mysery Dungeon - Explorers of Sky.mp3"
+    },
   ]
 }
