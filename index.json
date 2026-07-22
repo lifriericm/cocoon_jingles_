@@ -1,13 +1,13 @@
 {
-  "name": "Example Jingle Pack",
+  "name": "Cocoon Jingle Pack",
   "entries": [
     {
-      "game": "Example Game 1",
-      "file": "jingles/example-game-1.mp3"
+      "game": "Pokémon Black 2",
+      "file": "jingles/Pokémon Black 2.mp3"
     },
     {
-      "game": "Example Game 2",
-      "file": "jingles/example-game-2.mp3"
+      "game": "Pokémon White 2",
+      "file": "jingles/Pokémon White 2.mp3"
     }
   ]
 }
