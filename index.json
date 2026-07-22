@@ -2,11 +2,11 @@
   "name": "Cocoon Jingle Pack",
   "entries": [
     {
-      "game": "Pokemon - Black Version 2",
+      "name": "Pokemon - Black Version 2",
       "file": "jingles/Pokémon Black 2.mp3"
     },
     {
-      "game": "Pokémon White 2",
+      "name": "Pokémon White 2",
       "file": "jingles/Pokémon White 2.mp3"
     }
   ]
